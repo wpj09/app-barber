@@ -23,7 +23,7 @@ import EmailIcon from '../../assets/email.svg';
 import LockIcon from '../../assets/lock.svg';
 
 export default () => {
-  const {dispatch: userDispatch} = useContext(UserContext);
+  //   const {dispatch: userDispatch} = useContext(UserContext);
   const navigation = useNavigation();
 
   const [nameField, setNameField] = useState('');
@@ -43,6 +43,7 @@ export default () => {
             avatar: res.data.avatar,
           },
         });
+
         navigation.reset({
           routes: [{name: 'MainTab'}],
         });

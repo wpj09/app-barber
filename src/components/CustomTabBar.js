@@ -27,7 +27,7 @@ const TabItemCenter = styled.TouchableOpacity`
   background-color: #fff;
   border-radius: 35px;
   border: 3px solid #4eadbe;
-  margin-top: -20px;
+  margin-top: -30px;
 `;
 const AvatarIcon = styled.Image`
   width: 24px;
