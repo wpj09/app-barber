@@ -3,7 +3,6 @@
 [![License](https://poser.pugx.org/quantical-solutions/reactnative/license)](//packagist.org/packages/quantical-solutions/reactnative)
 
 # Baixar
-<hr>
 
 Acesso o link a seguir para baixar o projeto [aqui](https://github.com/wpj09/app-barber/archive/refs/heads/master.zip).
 
