@@ -1,8 +1,6 @@
-<h1 align="center"><img src="https://github.com/wpj09/app-barber/blob/master/src/assets/barber.svg" style="width="100%" height="160"> DEV-Barber</h1>
+# DEV-Barber
 
-<p align="center">
-<a href="https://img.shields.io/npm/l/m"><img src="https://poser.pugx.org/quantical-solutions/reactnative/license" alt="License"></a>
-</p>
+[![License](https://poser.pugx.org/quantical-solutions/reactnative/license)](//packagist.org/packages/quantical-solutions/reactnative)
 
 # Baixar
 
