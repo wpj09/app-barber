@@ -14,7 +14,7 @@ Após baixar o [NPM](https://nodejs.org/en/).
 
 Acesse o [site](https://reactnative.dev/docs/environment-setup)
 
-Voce instala o React CLI, sem ser com o uso do ***EXPO***
+Você deve instala o React CLI, sem ser com o uso do ***EXPO***
 
 ### Baixando as dependências do projeto
 Abra o temrinal. "Pode ser o da propria IDE ou Editor de Código"
