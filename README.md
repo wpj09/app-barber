@@ -17,7 +17,7 @@ Acesse o [site](https://reactnative.dev/docs/environment-setup)
 Você deve instala o React CLI, sem ser com o uso do ***EXPO***
 
 ### Baixando as dependências do projeto
-Abra o temrinal. "Pode ser o da propria IDE ou Editor de Código"
+Abra o terminal e navegue até a pasta do projeto. "Pode ser o da propria IDE ou Editor de Código"
 Execute o seguinte.
 
 ```sh
@@ -40,7 +40,7 @@ Espere o processo acabar.
 
 # Execução do Projeto
 
-Com o CMD aberto voce dará o seguinte comando
+Com o CMD aberto voce dará o seguinte comando após estar na pasta do projeto.
 
 ```sh
 npx react-native run-android
